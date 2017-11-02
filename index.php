@@ -25,3 +25,4 @@ switch ($view)
 
 include($_SERVER['DOCUMENT_ROOT'].'/mektep/views/layouts/site.php');
 ?>
+<!-- comment -->
